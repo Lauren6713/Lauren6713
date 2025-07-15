@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Lauren!</h1>
 
-🔥 Transitioning into Data Analysis  
+🔥 Data Analyst  
 📊 Ex-Product Manager, Research Engineer & Physiotherapist  
 🎓 RNCP Level 6 Certified (Bachelor’s) | Le Wagon Data Analytics  
 
