@@ -15,10 +15,8 @@ With 3 years of experience working across cross-functional teams and external st
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40"/>
-  <img src="https://wallpapers.com/images/featured/tableau-logo-png-th525w75z77ccxc9.png" alt="Tableau" width="40"/>
   <img src="https://www.dmit.co.th/wp-content/uploads/2022/10/Looker-Studio-Logo-1024x1024.png" alt="Looker Studio" width="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/2965/2965327.png" alt="Google Sheets" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="30"/>
 
 
 </p>
